@@ -80,9 +80,6 @@ void loop() {
 
 ---
 
-## 📸 Demo
-
-*(Add a GIF or screenshot of your simulation showing LED + buzzer working)*
 
 ---
 
